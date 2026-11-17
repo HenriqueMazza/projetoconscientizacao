@@ -1,5 +1,5 @@
 import FundoHhome from '../../assets/imgs/FundoHhome.jpg';
-import Styles from '../css/hhome.module.css';
+import Styles from '../css/hHome.module.css';
 
 function HHome() {
   return (
